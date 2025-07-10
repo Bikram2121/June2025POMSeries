@@ -24,12 +24,12 @@
         </classes>
     </test>
 
-    <!--        <test name="ProductInfo Page Test">-->
-    <!--            <parameter name="browser" value="firefox"/>-->
-    <!--            <classes>-->
-    <!--                <class name="com.qa.opencart.tests.ProductInfoPageTest"/>-->
-    <!--            </classes>-->
-    <!--        </test>-->
+    <test name="ProductInfo Page Test">
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="com.qa.opencart.tests.ProductInfoPageTest"/>
+        </classes>
+    </test>
 
     <!--        <test name="Register Page Test">-->
     <!--            <parameter name="browser" value="chrome" />-->
