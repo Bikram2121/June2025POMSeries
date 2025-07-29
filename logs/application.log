@@ -1,0 +1,25 @@
+2025-07-30 04:55:48,871 INFO com.qa.opencart.factory.DriverFactory [TestNG-tests-4] Running test on : null
+2025-07-30 04:55:48,871 INFO com.qa.opencart.factory.DriverFactory [TestNG-tests-2] Running test on : null
+2025-07-30 04:55:48,871 INFO com.qa.opencart.factory.DriverFactory [TestNG-tests-3] Running test on : null
+2025-07-30 04:55:48,871 INFO com.qa.opencart.factory.DriverFactory [TestNG-tests-1] Running test on : null
+2025-07-30 04:55:48,877 WARN com.qa.opencart.factory.DriverFactory [TestNG-tests-4] env is null...running tests on QA env
+2025-07-30 04:55:48,877 WARN com.qa.opencart.factory.DriverFactory [TestNG-tests-1] env is null...running tests on QA env
+2025-07-30 04:55:48,877 WARN com.qa.opencart.factory.DriverFactory [TestNG-tests-2] env is null...running tests on QA env
+2025-07-30 04:55:48,877 WARN com.qa.opencart.factory.DriverFactory [TestNG-tests-3] env is null...running tests on QA env
+2025-07-30 04:55:48,879 INFO com.qa.opencart.factory.DriverFactory [TestNG-tests-3] properties : {headless=false, highlight=true, password=uiui@007, browser=chrome, incognito=false, remote=true, testname=ProductInfoPageTest, huburl=http://localhost:4444/wd/hub, url=https://naveenautomationlabs.com/opencart/index.php?route=account/login, browserversion=124.0, username=uitest@test.com}
+2025-07-30 04:55:48,879 INFO com.qa.opencart.factory.DriverFactory [TestNG-tests-4] properties : {headless=false, highlight=true, password=uiui@007, browser=chrome, incognito=false, remote=true, testname=RegisterPageTest, huburl=http://localhost:4444/wd/hub, url=https://naveenautomationlabs.com/opencart/index.php?route=account/login, browserversion=123.0, username=uitest@test.com}
+2025-07-30 04:55:48,879 INFO com.qa.opencart.factory.DriverFactory [TestNG-tests-2] properties : {headless=false, highlight=true, password=uiui@007, browser=chrome, incognito=false, remote=true, testname=AccountsPageTest, huburl=http://localhost:4444/wd/hub, url=https://naveenautomationlabs.com/opencart/index.php?route=account/login, browserversion=113.0, username=uitest@test.com}
+2025-07-30 04:55:48,879 INFO com.qa.opencart.factory.DriverFactory [TestNG-tests-1] properties : {headless=false, highlight=true, password=uiui@007, browser=chrome, incognito=false, remote=true, testname=LoginPageTest, huburl=http://localhost:4444/wd/hub, url=https://naveenautomationlabs.com/opencart/index.php?route=account/login, browserversion=126.0, username=uitest@test.com}
+2025-07-30 04:55:48,879 INFO com.qa.opencart.factory.DriverFactory [TestNG-tests-3] browser name : chrome
+2025-07-30 04:55:48,879 INFO com.qa.opencart.factory.DriverFactory [TestNG-tests-2] browser name : chrome
+2025-07-30 04:55:48,879 INFO com.qa.opencart.factory.DriverFactory [TestNG-tests-4] browser name : chrome
+2025-07-30 04:55:48,879 INFO com.qa.opencart.factory.DriverFactory [TestNG-tests-1] browser name : chrome
+2025-07-30 04:55:48,882 INFO com.qa.opencart.factory.DriverFactory [TestNG-tests-1] running tests on grid with browser : chrome
+2025-07-30 04:55:48,882 INFO com.qa.opencart.factory.DriverFactory [TestNG-tests-2] running tests on grid with browser : chrome
+2025-07-30 04:55:48,882 INFO com.qa.opencart.factory.DriverFactory [TestNG-tests-3] running tests on grid with browser : chrome
+2025-07-30 04:55:48,882 INFO com.qa.opencart.factory.DriverFactory [TestNG-tests-4] running tests on grid with browser : chrome
+2025-07-30 04:55:55,757 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection [TestNG-tests-4] Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-07-30 04:55:55,761 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection [TestNG-tests-4] Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-07-30 04:55:55,762 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection [TestNG-tests-4] Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-07-30 04:55:55,854 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection [TestNG-tests-4] Parsing relationship: /_rels/.rels
+2025-07-30 04:55:56,805 DEBUG org.apache.poi.ooxml.POIXMLFactory [TestNG-tests-4] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
